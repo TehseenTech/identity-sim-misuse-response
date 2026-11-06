@@ -1,5 +1,6 @@
 # Identity Theft & SIM Misuse Response
 
+<p align="center"><strong>SECURITY RESOURCE / DIGITAL FORENSICS / AUTHORIZED USE</strong></p>
 > Educational, safety-first guidance for people responding to cyber incidents. This project is independent and is not a law-enforcement agency, law firm, bank, telecom operator, or account-recovery service.
 
 A step-by-step guide for unauthorized SIMs, identity misuse, account impersonation, mobile-number takeover, and credential abuse in Pakistan.
